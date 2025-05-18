@@ -2,8 +2,8 @@ import aiohttp
 import asyncio
 import csv
 
-CLIENT_ID = "40897"
-CLIENT_SECRET = "bLDoG2uhbU09Q4HvXYbbh6Sc0UrP5rc3TdGVjm5e"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 MAX_USERS = 10000
 PER_PAGE = 50
 CONCURRENT_REQUESTS = 10  # кол-во параллельных запросов деталей пользователей
